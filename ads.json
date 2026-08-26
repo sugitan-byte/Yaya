@@ -1,0 +1,15 @@
+{
+  "ads": [
+    { "id": "promo-newyear-2026", "version": 1, "images": [...], ... }
+  ],
+
+  "banners": [
+    {
+      "id": "banner-vip-2026",
+      "version": 1,
+      "image": "https://raw.githubusercontent.com/Tunzen665/Sky/main/ads/banner1.jpg",
+      "targetUrl": "https://t.me/yourhandle",
+      "enabled": false
+    }
+  ]
+}
