@@ -1,4 +1,8 @@
 {
-  "version_code": 17,
-  "key": "vless://0c5c934d-cdb8-4bc8-81b9-8c3af0eec560@ip_address:443?path=%2FeyJqdW5rIjoiRUppakhVS2lNIn0%3D%3Fed%3D2560&security=tls&alpn=http%2F1.1&encryption=none&host=atom-bpb.aya-dexicbetyddeahyrcgtss777.site&fp=chrome&type=ws&sni=aToM-bpb.site#Random_Server"
+  "version_code": 18,
+  "capacity": 100,
+  "keys": [
+    "vless://e0943731-32b0-4032-af2f-ef7b856963f4@ip address:443?path=%2Fapi&security=tls&alpn=h2%2Chttp%2F1.1&encryption=none&insecure=0&host=api.mytel.asia&fp=chrome&type=ws&allowInsecure=0&sni=api.mytel.asia#Websocket-Node"
+  ],
+  "key": "vless://e0943731-32b0-4032-af2f-ef7b856963f4@ip address:443?path=%2Fapi&security=tls&alpn=h2%2Chttp%2F1.1&encryption=none&insecure=0&host=api.mytel.asia&fp=chrome&type=ws&allowInsecure=0&sni=api.mytel.asia#Websocket-Node"
 }
